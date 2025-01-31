@@ -13,7 +13,7 @@ header {
     padding: 350px 15px;
 }
 
-.Flex-Container {
+.Flex-Container-1 {
 
     background-color: #daa520;
     border: 2px dashed black;
@@ -22,13 +22,13 @@ header {
 
 }
 
-.Flex-Item {
+.Flex-Item-1 {
 
     padding: 10px;
 
 }
 
-.First {
+.First-1 {
     border-left: 3px;
     border-right: 3px;
     border-bottom: 0px;
@@ -38,3 +38,6 @@ header {
     width: 66%;
     text-align: center;
 }
+
+
+/* Main*/
