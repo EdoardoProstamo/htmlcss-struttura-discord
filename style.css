@@ -86,9 +86,34 @@ header {
     padding-bottom: 400px;
     
 }
-
-
-
 /* /Sezione 2*/
+
+/* Sezione 3*/
+.Flex-Container-4 {
+    background-color: #d3d3d3;
+    padding: 50px 150px;
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+
+.Flex-Item-4 {
+    background-color: #1e90ff;
+    border: 2px dashed black;
+    width: 66%;
+    height: 200px;
+    justify-content: center;
+    padding-bottom: 400px;
+    
+}.Flex-Item-4-1 {
+    background-color: #ffc0cb;
+    border: 2px dashed black;
+    width: 34%;
+    height: 200px;
+    justify-content: center;
+    padding-bottom: 400px;
+    
+}
+/* /Sezione 3*/
 
 
