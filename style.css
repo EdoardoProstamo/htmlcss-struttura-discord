@@ -11,6 +11,7 @@ header {
     
     background-color: #add8e6;
     padding: 15px 200px;
+
 }
 
 .Flex-Container-1 {
@@ -47,6 +48,7 @@ header {
 .Flex-Container-2 {
     background-color: #00008b;
     padding: 50px 250px;
+    
 }
 
 .Flex-Item-2 {
@@ -60,6 +62,32 @@ header {
 
 
 /* Sezione 2*/
+.Flex-Container-3 {
+    background-color: #ffffff;
+    padding: 50px 150px;
+    display: flex;
+
+}
+
+.Flex-Item-3 {
+    background-color: #1e90ff;
+    border: 2px dashed black;
+    width: 66%;
+    height: 200px;
+    justify-content: center;
+    padding-bottom: 400px;
+    
+}.Flex-Item-3-1 {
+    background-color: #ffc0cb;
+    border: 2px dashed black;
+    width: 34%;
+    height: 200px;
+    justify-content: center;
+    padding-bottom: 400px;
+    
+}
+
+
 
 /* /Sezione 2*/
 
