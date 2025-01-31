@@ -10,7 +10,7 @@
 header {
     
     background-color: #add8e6;
-    padding: 350px 15px;
+    padding: 15px 200px;
 }
 
 .Flex-Container-1 {
@@ -19,7 +19,7 @@ header {
     border: 2px dashed black;
     display: flex;
     justify-content: space-between;
-
+ 
 }
 
 .Flex-Item-1 {
@@ -38,6 +38,29 @@ header {
     width: 66%;
     text-align: center;
 }
+/* /Header*/
 
 
 /* Main*/
+
+/* Sezione 1*/
+.Flex-Container-2 {
+    background-color: #00008b;
+    padding: 50px 250px;
+}
+
+.Flex-Item-2 {
+    background-color: #ee82ee;
+    border: 2px dashed black;
+    display: flex;
+    padding-bottom: 300px;
+    
+}
+/* /Sezione 1*/
+
+
+/* Sezione 2*/
+
+/* /Sezione 2*/
+
+
