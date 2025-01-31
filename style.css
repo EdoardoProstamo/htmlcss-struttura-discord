@@ -117,3 +117,22 @@ header {
 /* /Sezione 3*/
 
 
+/* Sezione 5*/
+
+.Flex-Container-5 {
+
+    background-color: #d3d3d3;
+    padding: 50px 150px;
+    display: flex;
+    
+}
+
+.Flex-Item-5 {
+    background-color: #228b22;
+    border: 2px dashed black;
+    display: flex;
+    width: 100%;
+    padding-bottom: 700px;
+    
+}
+/* /Sezione 5*/
