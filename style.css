@@ -1,0 +1,22 @@
+/* General*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+}
+
+
+/* Header*/
+header {
+    
+    background-color: #add8e6;
+    padding: 350px 15px;
+}
+
+.top {
+
+    background-color: #daa520;
+    border: 2px dashed black;
+    
+
+}
