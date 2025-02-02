@@ -64,7 +64,7 @@ header {
 /* Sezione 2*/
 .Flex-Container-3 {
     background-color: #ffffff;
-    padding: 50px 150px;
+    padding: 50px 200px;
     display: flex;
 
 }
@@ -91,7 +91,7 @@ header {
 /* Sezione 3*/
 .Flex-Container-4 {
     background-color: #d3d3d3;
-    padding: 50px 150px;
+    padding: 50px 200px;
     display: flex;
     flex-direction: row-reverse;
 
@@ -122,7 +122,7 @@ header {
 .Flex-Container-5 {
 
     background-color: #d3d3d3;
-    padding: 50px 150px;
+    padding: 50px 200px;
     display: flex;
     
 }
@@ -142,7 +142,7 @@ header {
 
 .Flex-Container-6 {
     background-color: #23272a;
-    padding: 10px 150px 40px;
+    padding: 10px 200px 40px;
     display: flex;
 }
 
@@ -166,7 +166,42 @@ header {
 }
 
 .Flex-Item-6-1 .A {
-    border: 2px dashed white;
+    border: 2px dashed #ffffff;
 }
 /* /Sezione 6*/
+
+/* /Main*/
+
+/*hr {
+    color: white;
+}*/
+
+/* Footer*/
+
+footer {
+    background-color: #23272a;
+    padding: 30px 200px 0px;
+    border-top: 2px  #ffffff;
+    border-bottom: #ffffff;
+}
+
+.Flex-Container-Button {
+    height: 50px;
+    background-color: #7fffd4;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    
+}
+
+.Flex-Button {
+    
+    background-color: #ffb6c1;
+    border: 1px dashed black;
+    margin: 15px 0px;
+
+}
+
+/* /Footer*/
+
 
