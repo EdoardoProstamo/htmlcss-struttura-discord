@@ -136,3 +136,37 @@ header {
     
 }
 /* /Sezione 5*/
+
+
+/* /Sezione 6*/
+
+.Flex-Container-6 {
+    background-color: #23272a;
+    padding: 10px 150px 40px;
+    display: flex;
+}
+
+.Flex-Item-6 {
+    background-color: #f08080;
+    border: 2px dashed black;
+    width: 30%;
+    height: 200px;
+    justify-content: center;
+    padding-bottom: 400px;
+}
+
+.Flex-Item-6-1 {
+    background-color: #20b2aa;
+    border: 2px dashed black;
+    display: flex;
+    width: 70%;
+    height: 200px;
+    justify-content: center;
+    padding-bottom: 400px;
+}
+
+.Flex-Item-6-1 .A {
+    border: 2px dashed white;
+}
+/* /Sezione 6*/
+
